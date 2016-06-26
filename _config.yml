@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Pdeng
+title: ''
 subtitle:
 description:
 author: pdeng
@@ -81,6 +81,17 @@ pagination_dir: page
 ## Plugins: https://github.com/tommy351/hexo/wiki/Plugins
 ## Themes: https://github.com/tommy351/hexo/wiki/Themes
 theme: landscape
+
+
+
+#theme: apollo
+#评论插件
+duoshuo_shortname: pdeng
+
+
+
+
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
